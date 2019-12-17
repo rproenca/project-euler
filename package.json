@@ -1,0 +1,27 @@
+{
+  "name": "project-euler",
+  "version": "1.0.0",
+  "description": "Answers for https://projecteuler.net/ problems",
+  "main": "problem1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rproenca/project-euler.git"
+  },
+  "keywords": [
+    "project-euler"
+  ],
+  "author": "Rodrigo Proença",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rproenca/project-euler/issues"
+  },
+  "homepage": "https://github.com/rproenca/project-euler#readme",
+  "devDependencies": {
+    "eslint": "^6.7.2",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.19.1"
+  }
+}
